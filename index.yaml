@@ -3,12 +3,12 @@ entries:
   paydestal-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-07T21:40:54.565642+01:00"
+    created: "2024-03-15T22:06:27.832732+01:00"
     description: A Helm chart for Kubernetes
-    digest: 259add1b9c55bdd99569939c3a57ee87a659a2fc98989de5b353cf2f9ef24e2b
+    digest: 40d293d1db5b27ed99e4b1c6d45f3830d1e42ab526ccc6b47fc4c7539cd280a9
     name: paydestal-chart
     type: application
     urls:
     - https://payevery.github.io/helm-repo/paydestal-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-07T21:40:54.565173+01:00"
+generated: "2024-03-15T22:06:27.832229+01:00"
